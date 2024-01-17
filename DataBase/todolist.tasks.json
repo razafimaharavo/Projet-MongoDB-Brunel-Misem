@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "655363f5b5dd0cc8064b4b1c"
+  },
+  "Description": "Faire la revision de ma leçon de mathématique en classe",
+  "Status": 1,
+  "Nom": "Révision",
+  "datetime": {
+    "$date": "2024-01-11T08:42:00.000Z"
+  },
+  "listUser": [
+    "659fe1bc7c2f88c915039f78",
+    "65a163ba1ca8beb90b0b9be9"
+  ],
+  "IdUserPropr": "659fe1bc7c2f88c915039f78"
+},
+{
+  "_id": {
+    "$oid": "6553696eb5dd0cc8064b4b1d"
+  },
+  "Description": "Regarder le dessin animé de tom et Jerry",
+  "Status": 1,
+  "Nom": "Regarde la télé",
+  "datetime": {
+    "$date": "2024-01-11T17:30:00.000Z"
+  },
+  "IdUserPropr": "65a163ba1ca8beb90b0b9be9",
+  "listUser": [
+    "659ff7247c2f88c915039f7d",
+    "659fe1bc7c2f88c915039f78"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6571371e816a9bc3890053e4"
+  },
+  "Description": "Manger du crème au chocolat",
+  "Status": 1,
+  "Nom": "Dinner",
+  "datetime": {
+    "$date": "2024-01-11T15:40:00.000Z"
+  },
+  "IdUserPropr": "65a163ba1ca8beb90b0b9be9"
+},
+{
+  "_id": {
+    "$oid": "65713774816a9bc3890053e6"
+  },
+  "Description": "Mange du crème au chocolat vanille",
+  "Status": 0,
+  "Nom": "Dinner",
+  "datetime": {
+    "$date": "2024-01-11T14:00:00.000Z"
+  },
+  "IdUserPropr": "659ff7247c2f88c915039f7d",
+  "listUser": [
+    "65a163ba1ca8beb90b0b9be9",
+    "659fe1bc7c2f88c915039f78",
+    "659ff7247c2f88c915039f7d"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65713cc5816a9bc3890053e9"
+  },
+  "Description": "Suivre mon série préfèrer en canal plus",
+  "Status": 0,
+  "Nom": "Regarde une série",
+  "datetime": {
+    "$date": "2024-01-11T11:30:00.000Z"
+  },
+  "IdUserPropr": "65a163ba1ca8beb90b0b9be9",
+  "listUser": [
+    "65a163ba1ca8beb90b0b9be9",
+    "659fe1bc7c2f88c915039f78"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575539ade669c6842078b86"
+  },
+  "Description": "Faire l'inscription",
+  "Status": 0,
+  "Nom": "Inscription",
+  "datetime": {
+    "$date": "2024-01-11T16:20:00.000Z"
+  },
+  "IdUserPropr": "65a163ba1ca8beb90b0b9be9",
+  "listUser": [
+    "659fe1bc7c2f88c915039f78",
+    "659ff7247c2f88c915039f7d"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575765bde669c6842078b8d"
+  },
+  "Description": "Allez à la bibliothèque",
+  "Status": 1,
+  "Nom": "Faire le projet de MongoDB",
+  "datetime": {
+    "$date": "2024-01-11T09:20:00.000Z"
+  },
+  "listUser": [
+    "659ff7247c2f88c915039f7d",
+    "65a163ba1ca8beb90b0b9be9"
+  ],
+  "IdUserPropr": "659ff7247c2f88c915039f7d"
+},
+{
+  "_id": {
+    "$oid": "65a1042b1ca8beb90b0b9bd9"
+  },
+  "Description": "Allez à la plage",
+  "Status": 1,
+  "Nom": "Campigne",
+  "datetime": {
+    "$date": "2024-01-13T14:00:00.000Z"
+  },
+  "IdUserPropr": "659fe1bc7c2f88c915039f78",
+  "listUser": [
+    "65a163ba1ca8beb90b0b9be9"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65a6950249fce097ef0a951b"
+  },
+  "Description": "Allez au marcher pour acheter les engrediens",
+  "Status": 0,
+  "Nom": "Achat d'engredien",
+  "IdUserPropr": "659fe1bc7c2f88c915039f78",
+  "datetime": {
+    "$date": "2024-01-16T14:36:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a7de01361abb9b630417c7"
+  },
+  "Description": "Préparer un gâteau pour mon anniversaire",
+  "Status": 0,
+  "Nom": "Préparation de gâteau",
+  "IdUserPropr": "659ff7247c2f88c915039f7d",
+  "datetime": {
+    "$date": "2024-01-31T14:00:00.000Z"
+  },
+  "listUser": [
+    "65a163ba1ca8beb90b0b9be9",
+    "659ff7247c2f88c915039f7d"
+  ]
+}]

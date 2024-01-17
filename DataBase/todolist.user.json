@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "659fe1bc7c2f88c915039f78"
+  },
+  "Name_clt": "Razafimaharavo",
+  "Prenom_clt": "Brunel ",
+  "Genre": "Homme",
+  "Phone_nbr_clt": "0348573759",
+  "Habita": "Morondava",
+  "Email_clt": "razafimaharavomarion@gmail.com",
+  "PassWords_clt": "Razma619",
+  "Date_insert": {
+    "$date": "2024-01-11T12:40:28.000Z"
+  },
+  "image": "ImageUser/aprillrain221000231.jpg",
+  "listTache": [
+    "655363f5b5dd0cc8064b4b1c",
+    "6575539ade669c6842078b86",
+    "6553696eb5dd0cc8064b4b1d",
+    "65713774816a9bc3890053e6",
+    "65713cc5816a9bc3890053e9"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ff7247c2f88c915039f7d"
+  },
+  "Name_clt": "RAZAFY",
+  "Prenom_clt": "Stéphie Adrianah",
+  "Genre": "Femme",
+  "Phone_nbr_clt": "0341587244",
+  "Habita": "Antananarivo",
+  "Email_clt": "stephie@gmail.com",
+  "PassWords_clt": "Ste501",
+  "Date_insert": {
+    "$date": "2024-01-11T14:11:48.000Z"
+  },
+  "listTache": [
+    "6575765bde669c6842078b8d",
+    "6575539ade669c6842078b86",
+    "6553696eb5dd0cc8064b4b1d",
+    "65713774816a9bc3890053e6",
+    "65a7de01361abb9b630417c7"
+  ],
+  "image": "ImageUser/indexcouché.jpg"
+},
+{
+  "_id": {
+    "$oid": "65a163ba1ca8beb90b0b9be9"
+  },
+  "Name_clt": "TAHIRINIAINA",
+  "Prenom_clt": "Marcela",
+  "Genre": "Homme",
+  "Phone_nbr_clt": "0321415612",
+  "Habita": "Toamasina",
+  "Email_clt": "tahiry@gmail.com",
+  "PassWords_clt": "Marcel22",
+  "Date_insert": {
+    "$date": "2024-01-12T16:07:22.000Z"
+  },
+  "listTache": [
+    "6575765bde669c6842078b8d",
+    "65713cc5816a9bc3890053e9",
+    "65a1042b1ca8beb90b0b9bd9",
+    "65713774816a9bc3890053e6",
+    "655363f5b5dd0cc8064b4b1c",
+    "65a7de01361abb9b630417c7"
+  ],
+  "image": "ImageUser/403456992_248717884689145_8913932802789045997_n.jpg"
+}]
